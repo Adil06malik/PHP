@@ -1,0 +1,3 @@
+<?php echo rand(1, 6); 
+ echo "<h2>i can use this as  php also in this text file</h2>";
+?>
